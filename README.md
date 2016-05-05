@@ -1,4 +1,5 @@
-### Using [Docker](https://www.docker.com/) with [Django](https://www.djangoproject.com/)
+Using [Docker](https://www.docker.com/) with [Django](https://www.djangoproject.com/)
+=======
 
 This is a base Django project that uses [Docker](https://www.docker.com/), it can be used as a starting point for a new project.
 
